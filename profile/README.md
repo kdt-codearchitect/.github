@@ -22,6 +22,8 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b124c00f-76ca-4876-baca-33f1433e555e" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/997f5216-9dba-4d5b-b405-46e50df31da9" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f8778c9-d827-4e47-a8e2-38afd35c4689" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e9557d7b-7638-4410-9ae1-d5cdde330eb8" />
+
 
 
 
@@ -50,7 +52,6 @@
 * [기술 스택](#-기술-스택)
 * [시스템 구조](#-시스템-구조)
 * [ERD](#-erd)
-* [실행 방법](#-실행-방법)
 * [향후 개선사항](#-향후-개선사항)
 
 ---
@@ -138,17 +139,15 @@
 
 ## 🧭 시스템 구조
 
-> 프론트 → Axios → Spring Controller → Service → JPA + MyBatis → DB & 외부 API
+<img width="856" height="597" alt="image" src="https://github.com/user-attachments/assets/1290049e-8f7c-4e73-b123-3b606410df9a" />
 
-(📷 아키텍처 PPT 이미지 삽입 가능)
 
 ---
 
 ## 🧾 ERD
 
-> 고객, 장바구니, 주문, 찜목록, 냉장고, 문의, FAQ 등으로 구성됨
+<img width="3410" height="1183" alt="Project_PopCon" src="https://github.com/user-attachments/assets/028614bb-b440-4bf1-852e-d02eff25d846" />
 
-(📷 ERD 설계도 이미지 삽입 가능)
 
 ---
 
