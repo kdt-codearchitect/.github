@@ -11,6 +11,8 @@
 | 프로젝트명   | POP\:CON (Pop + Convenience Store)                       |
 | 개발 기간   | 4주                                                       |
 | 프로젝트 형태 | 웹 기반 쇼핑몰 시스템                                             |
+| PPT | https://docs.google.com/presentation/d/1BxEpcDTjkgh8fkRzs9a1IdSsEe2Q-FVK/edit?usp=sharing&ouid=103340559708893338520&rtpof=true&sd=true |
+| 시연영상 | https://drive.google.com/file/d/1i92APimE-gtBhlFISEcNDg3OFubHU7iC/view?usp=sharing |
 | 핵심 키워드  | 장바구니, 찜목록, 결제, 냉장고 보관, 지도기반 검색, 고객센터                     |
 
 
