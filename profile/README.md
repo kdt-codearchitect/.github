@@ -11,8 +11,8 @@
 | 프로젝트명   | POP\:CON (Pop + Convenience Store)                       |
 | 개발 기간   | 4주                                                       |
 | 프로젝트 형태 | 웹 기반 쇼핑몰 시스템                                             |
-| PPT | https://docs.google.com/presentation/d/1BxEpcDTjkgh8fkRzs9a1IdSsEe2Q-FVK/edit?usp=sharing&ouid=103340559708893338520&rtpof=true&sd=true |
-| 시연영상 | https://drive.google.com/file/d/1i92APimE-gtBhlFISEcNDg3OFubHU7iC/view?usp=sharing |
+| PPT | 📊 [PPT 링크](https://docs.google.com/presentation/d/1BxEpcDTjkgh8fkRzs9a1IdSsEe2Q-FVK/edit?usp=sharing&ouid=103340559708893338520&rtpof=true&sd=true)|
+| 시연영상 |🎥 [시연 영상 링크](https://drive.google.com/file/d/1i92APimE-gtBhlFISEcNDg3OFubHU7iC/view?usp=sharing)    |
 | 핵심 키워드  | 장바구니, 찜목록, 결제, 냉장고 보관, 지도기반 검색, 고객센터                     |
 
 
@@ -22,11 +22,6 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b124c00f-76ca-4876-baca-33f1433e555e" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/997f5216-9dba-4d5b-b405-46e50df31da9" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f8778c9-d827-4e47-a8e2-38afd35c4689" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/53be4e4d-5718-4614-9ed4-eeefe8518569" />
-
-
-
-
 
 
 
@@ -172,6 +167,6 @@
 
 > 본 프로젝트는 **직접 쇼핑몰의 CRUD, 인증, 결제, API 연동을 구현**하며 팀 협업을 바탕으로 구축되었습니다.
 
-## 작업시 사용하던 노션
-https://tabby-roarer-f4c.notion.site/Project-Popcon-8b8a31c7b1564994be083611ea3dd8aa
+## 📒 작업 노션 링크
 
+> [📝 프로젝트 Notion 보드 바로가기](https://tabby-roarer-f4c.notion.site/Project-Popcon-8b8a31c7b1564994be083611ea3dd8aa)
